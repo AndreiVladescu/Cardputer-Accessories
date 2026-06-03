@@ -18,6 +18,9 @@ Checkout https://github.com/geo-tp/Cardputer-Game-Station-Emulators for a game s
 ### Magnifier Holder
 A holder that mounts a rectangular magnifying lens on an arm above the Cardputer's screen, making the small display easier to read. It's built from two printable connectors — an inferior connector that attaches to the Cardputer and a superior connector that holds the magnifier arm.
 
+You can buy the articulating arm here: [AliExpress Link](https://www.aliexpress.com/item/1005009994279927.html)
+
+
 [![Cardputer Magnifier Photo](./images/cardputer_magnifier.png)](./images/cardputer_magnifier.png)
 
 - **3D Model:** [`models/cardputer_magnifier.step`](./models/cardputer_magnifier.step)
