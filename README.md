@@ -8,7 +8,7 @@ A small collection of 3D models of accessories for the M5Stack Cardputer.
 
 ### Flat Gamepad
 Cardputer/Cardputer ADV/Cardputer Zero D-Pad gamepad without a mounting mechanism. Can be secured using double-sided tape. The compatiblity with the other two cardputers is due to the keyboard being very similar.
-Checkout https://github.com/geo-tp/Cardputer-Game-Station-Emulators for a game station emulator! Shout out to @geo-tp for this cool emulator!
+Checkout https://github.com/geo-tp/Cardputer-Game-Station-Emulators and https://github.com/geo-tp/Retro-Zero for game station emulators! Shout out to @geo-tp for these cool emulators!
 
 [![Flat Gamepad Photo](./images/flat_gamepad.png)](./images/flat_gamepad.png)
 
